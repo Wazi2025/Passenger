@@ -19,9 +19,7 @@ function increment() {
     count += 1;
 
     console.log(count);
-    CountEl.innerText = count;
-
-        
+    CountEl.innerText = count;        
    //showImage();
 }
 
