@@ -20,7 +20,7 @@ h2 {
     color: antiquewhite;
     font-weight: 700;
     margin-top: 10px;
-    margin-bottom: 10;
+    margin-bottom: 10px;
     text-align: center;
 } 
 
@@ -28,8 +28,7 @@ button{
         padding-top: 10px;
         padding-bottom: 10px;
         margin-top: 10px;
-        margin-bottom: 10px;
-        
+        margin-bottom: 10px;        
         border-radius: 10px;        
 }
 
@@ -56,18 +55,14 @@ button{
 
 body{
     display: flex;
-    flex-direction: column;    
-    
-        
+    flex-direction: column;
 }
 
-.container{
-    /*background: rgb(221, 215, 215); */
+.container{    
     background-image: url("gfx/jeremy-thomas-E0AHdsENmDg-unsplash.jpg");
     max-width: 90%;
     margin: auto;
     border: 3px black;
     border-radius: 10px;
-
 }
 
